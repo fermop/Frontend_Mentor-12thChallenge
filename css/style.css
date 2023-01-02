@@ -91,7 +91,7 @@ h1, .container__title--thin, .container__text {
 .calculator {border-color: var(--clr-primary-Blue);}
 
 .container__card__title {
-  font-size: 1.375rem;
+  font-size: 1.3125rem;
 }
 .container__card__text {
   font-size: 0.875rem;
@@ -117,8 +117,14 @@ h1, .container__title--thin, .container__text {
 }
 /* ---------- Responsiveness ---------- */
 @media (min-width: 45rem) {
+  h1, .container__title--thin {
+    font-size: 2.25rem;
+  }
   .container__card {
     padding: 2rem;
+  }
+  .container__card__title {
+    margin-bottom: 1rem;
   }
   .container__card__img {
     bottom: 2rem;
