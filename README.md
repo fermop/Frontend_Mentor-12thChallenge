@@ -30,6 +30,10 @@ Users should be able to:
 ![Mobile](./assets/images/mobile.png)
 
 
+📱 Tablet
+
+![Tablet](./assets/images/tablet.png)
+
 💻 Desktop
 
 ![Desktop](./assets/images/desktop.png)
