@@ -103,7 +103,6 @@ h1, .container__title--thin, .container__text {
 }
 /* ---------- Footer ---------- */
 .attribution {
-  display: none;
   font-size: 0.6875rem;
   text-align: center;
   margin: 1.5rem 0;
@@ -160,7 +159,7 @@ h1, .container__title--thin, .container__text {
 Media query needed to center the container, this way the screenshot on Frontend Mentor
 makes it look as similar as the comparative one.
 */
- @media (min-width: 45rem) and (min-height: 50rem) {
+ @media (min-width: 45rem) and (min-height: 58rem) {
   body {
     height: 100vh;
   }
